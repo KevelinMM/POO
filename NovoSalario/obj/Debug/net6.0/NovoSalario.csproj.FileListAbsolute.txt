@@ -1,0 +1,15 @@
+C:\Users\kevelin.mattos\Documents\POO\NovoSalario\obj\Debug\net6.0\NovoSalario.csproj.AssemblyReference.cache
+C:\Users\kevelin.mattos\Documents\POO\NovoSalario\obj\Debug\net6.0\NovoSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevelin.mattos\Documents\POO\NovoSalario\obj\Debug\net6.0\NovoSalario.AssemblyInfoInputs.cache
+C:\Users\kevelin.mattos\Documents\POO\NovoSalario\obj\Debug\net6.0\NovoSalario.AssemblyInfo.cs
+C:\Users\kevelin.mattos\Documents\POO\NovoSalario\obj\Debug\net6.0\NovoSalario.csproj.CoreCompileInputs.cache
+C:\Users\kevelin.mattos\Documents\POO\NovoSalario\bin\Debug\net6.0\NovoSalario.exe
+C:\Users\kevelin.mattos\Documents\POO\NovoSalario\bin\Debug\net6.0\NovoSalario.deps.json
+C:\Users\kevelin.mattos\Documents\POO\NovoSalario\bin\Debug\net6.0\NovoSalario.runtimeconfig.json
+C:\Users\kevelin.mattos\Documents\POO\NovoSalario\bin\Debug\net6.0\NovoSalario.dll
+C:\Users\kevelin.mattos\Documents\POO\NovoSalario\bin\Debug\net6.0\NovoSalario.pdb
+C:\Users\kevelin.mattos\Documents\POO\NovoSalario\obj\Debug\net6.0\NovoSalario.dll
+C:\Users\kevelin.mattos\Documents\POO\NovoSalario\obj\Debug\net6.0\refint\NovoSalario.dll
+C:\Users\kevelin.mattos\Documents\POO\NovoSalario\obj\Debug\net6.0\NovoSalario.pdb
+C:\Users\kevelin.mattos\Documents\POO\NovoSalario\obj\Debug\net6.0\NovoSalario.genruntimeconfig.cache
+C:\Users\kevelin.mattos\Documents\POO\NovoSalario\obj\Debug\net6.0\ref\NovoSalario.dll
