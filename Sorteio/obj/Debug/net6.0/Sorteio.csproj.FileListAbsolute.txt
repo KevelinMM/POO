@@ -1,0 +1,15 @@
+C:\Users\kevelin.mattos\Documents\POO\Sorteio\bin\Debug\net6.0\Sorteio.exe
+C:\Users\kevelin.mattos\Documents\POO\Sorteio\bin\Debug\net6.0\Sorteio.deps.json
+C:\Users\kevelin.mattos\Documents\POO\Sorteio\bin\Debug\net6.0\Sorteio.runtimeconfig.json
+C:\Users\kevelin.mattos\Documents\POO\Sorteio\bin\Debug\net6.0\Sorteio.dll
+C:\Users\kevelin.mattos\Documents\POO\Sorteio\bin\Debug\net6.0\Sorteio.pdb
+C:\Users\kevelin.mattos\Documents\POO\Sorteio\obj\Debug\net6.0\Sorteio.csproj.AssemblyReference.cache
+C:\Users\kevelin.mattos\Documents\POO\Sorteio\obj\Debug\net6.0\Sorteio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevelin.mattos\Documents\POO\Sorteio\obj\Debug\net6.0\Sorteio.AssemblyInfoInputs.cache
+C:\Users\kevelin.mattos\Documents\POO\Sorteio\obj\Debug\net6.0\Sorteio.AssemblyInfo.cs
+C:\Users\kevelin.mattos\Documents\POO\Sorteio\obj\Debug\net6.0\Sorteio.csproj.CoreCompileInputs.cache
+C:\Users\kevelin.mattos\Documents\POO\Sorteio\obj\Debug\net6.0\Sorteio.dll
+C:\Users\kevelin.mattos\Documents\POO\Sorteio\obj\Debug\net6.0\refint\Sorteio.dll
+C:\Users\kevelin.mattos\Documents\POO\Sorteio\obj\Debug\net6.0\Sorteio.pdb
+C:\Users\kevelin.mattos\Documents\POO\Sorteio\obj\Debug\net6.0\Sorteio.genruntimeconfig.cache
+C:\Users\kevelin.mattos\Documents\POO\Sorteio\obj\Debug\net6.0\ref\Sorteio.dll
