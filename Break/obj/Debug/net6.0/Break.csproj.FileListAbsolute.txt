@@ -1,0 +1,15 @@
+C:\Users\Kevelin\Documents\POO\Break\bin\Debug\net6.0\Break.exe
+C:\Users\Kevelin\Documents\POO\Break\bin\Debug\net6.0\Break.deps.json
+C:\Users\Kevelin\Documents\POO\Break\bin\Debug\net6.0\Break.runtimeconfig.json
+C:\Users\Kevelin\Documents\POO\Break\bin\Debug\net6.0\Break.dll
+C:\Users\Kevelin\Documents\POO\Break\bin\Debug\net6.0\Break.pdb
+C:\Users\Kevelin\Documents\POO\Break\obj\Debug\net6.0\Break.csproj.AssemblyReference.cache
+C:\Users\Kevelin\Documents\POO\Break\obj\Debug\net6.0\Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevelin\Documents\POO\Break\obj\Debug\net6.0\Break.AssemblyInfoInputs.cache
+C:\Users\Kevelin\Documents\POO\Break\obj\Debug\net6.0\Break.AssemblyInfo.cs
+C:\Users\Kevelin\Documents\POO\Break\obj\Debug\net6.0\Break.csproj.CoreCompileInputs.cache
+C:\Users\Kevelin\Documents\POO\Break\obj\Debug\net6.0\Break.dll
+C:\Users\Kevelin\Documents\POO\Break\obj\Debug\net6.0\refint\Break.dll
+C:\Users\Kevelin\Documents\POO\Break\obj\Debug\net6.0\Break.pdb
+C:\Users\Kevelin\Documents\POO\Break\obj\Debug\net6.0\Break.genruntimeconfig.cache
+C:\Users\Kevelin\Documents\POO\Break\obj\Debug\net6.0\ref\Break.dll
