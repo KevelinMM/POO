@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kevel\\Documents\\POO\\TudoJunto\\TudoJunto.csproj",
-      "projectName": "TudoJunto",
-      "projectPath": "C:\\Users\\kevel\\Documents\\POO\\TudoJunto\\TudoJunto.csproj",
+      "projectUniqueName": "C:\\Users\\kevel\\Documents\\POO\\HelloWorld\\HelloWorld.csproj",
+      "projectName": "HelloWorld",
+      "projectPath": "C:\\Users\\kevel\\Documents\\POO\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\kevel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kevel\\Documents\\POO\\TudoJunto\\obj\\",
+      "outputPath": "C:\\Users\\kevel\\Documents\\POO\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kevel\\AppData\\Roaming\\NuGet\\NuGet.Config"
