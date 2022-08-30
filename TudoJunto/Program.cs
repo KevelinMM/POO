@@ -9,14 +9,14 @@ namespace ExemploBreakProblema
             while (numeroQuestao != 0)
             {
                 Console.Write("----------------------\n");
-                Console.Write("Informe o valor do exercicio:\n");
+                Console.Write("Informe o exercicio:\n");
                 Console.Write("1 - O primeiro número divisível por 11, 13 e 17 a partir do número informado\n");
                 Console.Write("2 - Informa se o valor informado é maior ou menor que 10\n");
                 Console.Write("3 - Informa a fase da vida com relação a idade informada\n");
                 Console.Write("4 - Inverte os valores informados\n");
                 Console.Write("5 - (n1 + n2) * n1 é\n");
                 Console.Write("0 - Sair\n");
-                Console.Write("----------------------");
+                Console.Write("----------------------\n");
 
                 //Pessoa digita e cai na variavel nQuestao
                 string nQuestao = Console.ReadLine();
