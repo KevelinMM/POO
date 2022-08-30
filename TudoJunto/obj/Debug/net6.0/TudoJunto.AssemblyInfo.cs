@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Unicode")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TudoJunto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Unicode")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Unicode")]
+[assembly: System.Reflection.AssemblyProductAttribute("TudoJunto")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TudoJunto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -1,0 +1,15 @@
+C:\Users\kevelin.mattos\Documents\POO\InverterValores\bin\Debug\net6.0\InverterValores.exe
+C:\Users\kevelin.mattos\Documents\POO\InverterValores\bin\Debug\net6.0\InverterValores.deps.json
+C:\Users\kevelin.mattos\Documents\POO\InverterValores\bin\Debug\net6.0\InverterValores.runtimeconfig.json
+C:\Users\kevelin.mattos\Documents\POO\InverterValores\bin\Debug\net6.0\InverterValores.dll
+C:\Users\kevelin.mattos\Documents\POO\InverterValores\bin\Debug\net6.0\InverterValores.pdb
+C:\Users\kevelin.mattos\Documents\POO\InverterValores\obj\Debug\net6.0\InverterValores.csproj.AssemblyReference.cache
+C:\Users\kevelin.mattos\Documents\POO\InverterValores\obj\Debug\net6.0\InverterValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevelin.mattos\Documents\POO\InverterValores\obj\Debug\net6.0\InverterValores.AssemblyInfoInputs.cache
+C:\Users\kevelin.mattos\Documents\POO\InverterValores\obj\Debug\net6.0\InverterValores.AssemblyInfo.cs
+C:\Users\kevelin.mattos\Documents\POO\InverterValores\obj\Debug\net6.0\InverterValores.csproj.CoreCompileInputs.cache
+C:\Users\kevelin.mattos\Documents\POO\InverterValores\obj\Debug\net6.0\InverterValores.dll
+C:\Users\kevelin.mattos\Documents\POO\InverterValores\obj\Debug\net6.0\refint\InverterValores.dll
+C:\Users\kevelin.mattos\Documents\POO\InverterValores\obj\Debug\net6.0\InverterValores.pdb
+C:\Users\kevelin.mattos\Documents\POO\InverterValores\obj\Debug\net6.0\InverterValores.genruntimeconfig.cache
+C:\Users\kevelin.mattos\Documents\POO\InverterValores\obj\Debug\net6.0\ref\InverterValores.dll

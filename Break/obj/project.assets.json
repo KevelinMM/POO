@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kevelin\\.nuget\\packages\\": {}
+    "C:\\Users\\kevelin.mattos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kevelin\\Documents\\POO\\Break\\Break.csproj",
+      "projectUniqueName": "C:\\Users\\kevelin.mattos\\Documents\\POO\\Break\\Break.csproj",
       "projectName": "Break",
-      "projectPath": "C:\\Users\\Kevelin\\Documents\\POO\\Break\\Break.csproj",
-      "packagesPath": "C:\\Users\\Kevelin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kevelin\\Documents\\POO\\Break\\obj\\",
+      "projectPath": "C:\\Users\\kevelin.mattos\\Documents\\POO\\Break\\Break.csproj",
+      "packagesPath": "C:\\Users\\kevelin.mattos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kevelin.mattos\\Documents\\POO\\Break\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kevelin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kevelin.mattos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

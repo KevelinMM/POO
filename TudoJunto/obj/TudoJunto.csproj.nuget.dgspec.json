@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kevelin.mattos\\Documents\\POO\\Unicode\\Unicode.csproj": {}
+    "C:\\Users\\kevelin.mattos\\Documents\\POO\\TudoJunto\\TudoJunto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kevelin.mattos\\Documents\\POO\\Unicode\\Unicode.csproj": {
+    "C:\\Users\\kevelin.mattos\\Documents\\POO\\TudoJunto\\TudoJunto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevelin.mattos\\Documents\\POO\\Unicode\\Unicode.csproj",
-        "projectName": "Unicode",
-        "projectPath": "C:\\Users\\kevelin.mattos\\Documents\\POO\\Unicode\\Unicode.csproj",
+        "projectUniqueName": "C:\\Users\\kevelin.mattos\\Documents\\POO\\TudoJunto\\TudoJunto.csproj",
+        "projectName": "TudoJunto",
+        "projectPath": "C:\\Users\\kevelin.mattos\\Documents\\POO\\TudoJunto\\TudoJunto.csproj",
         "packagesPath": "C:\\Users\\kevelin.mattos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevelin.mattos\\Documents\\POO\\Unicode\\obj\\",
+        "outputPath": "C:\\Users\\kevelin.mattos\\Documents\\POO\\TudoJunto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kevelin.mattos\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Unicode/1.0.0": {
+      "TudoJunto/1.0.0": {
         "runtime": {
-          "Unicode.dll": {}
+          "TudoJunto.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Unicode/1.0.0": {
+    "TudoJunto/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

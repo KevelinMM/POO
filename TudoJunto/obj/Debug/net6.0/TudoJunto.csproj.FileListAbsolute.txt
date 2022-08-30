@@ -1,0 +1,15 @@
+C:\Users\kevelin.mattos\Documents\POO\TudoJunto\obj\Debug\net6.0\TudoJunto.csproj.AssemblyReference.cache
+C:\Users\kevelin.mattos\Documents\POO\TudoJunto\obj\Debug\net6.0\TudoJunto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevelin.mattos\Documents\POO\TudoJunto\obj\Debug\net6.0\TudoJunto.AssemblyInfoInputs.cache
+C:\Users\kevelin.mattos\Documents\POO\TudoJunto\obj\Debug\net6.0\TudoJunto.AssemblyInfo.cs
+C:\Users\kevelin.mattos\Documents\POO\TudoJunto\obj\Debug\net6.0\TudoJunto.csproj.CoreCompileInputs.cache
+C:\Users\kevelin.mattos\Documents\POO\TudoJunto\bin\Debug\net6.0\TudoJunto.exe
+C:\Users\kevelin.mattos\Documents\POO\TudoJunto\bin\Debug\net6.0\TudoJunto.deps.json
+C:\Users\kevelin.mattos\Documents\POO\TudoJunto\bin\Debug\net6.0\TudoJunto.runtimeconfig.json
+C:\Users\kevelin.mattos\Documents\POO\TudoJunto\bin\Debug\net6.0\TudoJunto.dll
+C:\Users\kevelin.mattos\Documents\POO\TudoJunto\bin\Debug\net6.0\TudoJunto.pdb
+C:\Users\kevelin.mattos\Documents\POO\TudoJunto\obj\Debug\net6.0\TudoJunto.dll
+C:\Users\kevelin.mattos\Documents\POO\TudoJunto\obj\Debug\net6.0\refint\TudoJunto.dll
+C:\Users\kevelin.mattos\Documents\POO\TudoJunto\obj\Debug\net6.0\TudoJunto.pdb
+C:\Users\kevelin.mattos\Documents\POO\TudoJunto\obj\Debug\net6.0\TudoJunto.genruntimeconfig.cache
+C:\Users\kevelin.mattos\Documents\POO\TudoJunto\obj\Debug\net6.0\ref\TudoJunto.dll
