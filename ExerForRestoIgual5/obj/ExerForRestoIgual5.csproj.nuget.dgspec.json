@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kevelin\\Documents\\POO\\ExerForRestoIgual5\\ExerForRestoIgual5.csproj": {}
+    "C:\\Users\\kevelin.mattos\\Documents\\POO\\ExerForRestoIgual5\\ExerForRestoIgual5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kevelin\\Documents\\POO\\ExerForRestoIgual5\\ExerForRestoIgual5.csproj": {
+    "C:\\Users\\kevelin.mattos\\Documents\\POO\\ExerForRestoIgual5\\ExerForRestoIgual5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevelin\\Documents\\POO\\ExerForRestoIgual5\\ExerForRestoIgual5.csproj",
+        "projectUniqueName": "C:\\Users\\kevelin.mattos\\Documents\\POO\\ExerForRestoIgual5\\ExerForRestoIgual5.csproj",
         "projectName": "ExerForRestoIgual5",
-        "projectPath": "C:\\Users\\Kevelin\\Documents\\POO\\ExerForRestoIgual5\\ExerForRestoIgual5.csproj",
-        "packagesPath": "C:\\Users\\Kevelin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevelin\\Documents\\POO\\ExerForRestoIgual5\\obj\\",
+        "projectPath": "C:\\Users\\kevelin.mattos\\Documents\\POO\\ExerForRestoIgual5\\ExerForRestoIgual5.csproj",
+        "packagesPath": "C:\\Users\\kevelin.mattos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevelin.mattos\\Documents\\POO\\ExerForRestoIgual5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kevelin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kevelin.mattos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

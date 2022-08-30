@@ -1,0 +1,15 @@
+C:\Users\kevelin.mattos\Documents\POO\Unicode\bin\Debug\net6.0\Unicode.exe
+C:\Users\kevelin.mattos\Documents\POO\Unicode\bin\Debug\net6.0\Unicode.deps.json
+C:\Users\kevelin.mattos\Documents\POO\Unicode\bin\Debug\net6.0\Unicode.runtimeconfig.json
+C:\Users\kevelin.mattos\Documents\POO\Unicode\bin\Debug\net6.0\Unicode.dll
+C:\Users\kevelin.mattos\Documents\POO\Unicode\bin\Debug\net6.0\Unicode.pdb
+C:\Users\kevelin.mattos\Documents\POO\Unicode\obj\Debug\net6.0\Unicode.csproj.AssemblyReference.cache
+C:\Users\kevelin.mattos\Documents\POO\Unicode\obj\Debug\net6.0\Unicode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevelin.mattos\Documents\POO\Unicode\obj\Debug\net6.0\Unicode.AssemblyInfoInputs.cache
+C:\Users\kevelin.mattos\Documents\POO\Unicode\obj\Debug\net6.0\Unicode.AssemblyInfo.cs
+C:\Users\kevelin.mattos\Documents\POO\Unicode\obj\Debug\net6.0\Unicode.csproj.CoreCompileInputs.cache
+C:\Users\kevelin.mattos\Documents\POO\Unicode\obj\Debug\net6.0\Unicode.dll
+C:\Users\kevelin.mattos\Documents\POO\Unicode\obj\Debug\net6.0\refint\Unicode.dll
+C:\Users\kevelin.mattos\Documents\POO\Unicode\obj\Debug\net6.0\Unicode.pdb
+C:\Users\kevelin.mattos\Documents\POO\Unicode\obj\Debug\net6.0\Unicode.genruntimeconfig.cache
+C:\Users\kevelin.mattos\Documents\POO\Unicode\obj\Debug\net6.0\ref\Unicode.dll
