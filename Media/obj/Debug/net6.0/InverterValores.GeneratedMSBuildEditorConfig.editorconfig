@@ -1,0 +1,14 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = InverterValores
+<<<<<<< HEAD:InverterValores/obj/Debug/net6.0/InverterValores.GeneratedMSBuildEditorConfig.editorconfig
+build_property.ProjectDir = c:\Users\kevelin.mattos\Documents\POO\InverterValores\
+=======
+build_property.ProjectDir = c:\Users\kevel\Documents\POO\InverterValores\
+>>>>>>> e3590037fc12438602b496e60e05b33971acbe2c:Media/obj/Debug/net6.0/InverterValores.GeneratedMSBuildEditorConfig.editorconfig
