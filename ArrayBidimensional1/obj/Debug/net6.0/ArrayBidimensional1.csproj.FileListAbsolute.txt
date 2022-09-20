@@ -1,0 +1,15 @@
+C:\Users\kevel\Documents\POO\ArrayBidimensional1\obj\Debug\net6.0\ArrayBidimensional1.csproj.AssemblyReference.cache
+C:\Users\kevel\Documents\POO\ArrayBidimensional1\obj\Debug\net6.0\ArrayBidimensional1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevel\Documents\POO\ArrayBidimensional1\obj\Debug\net6.0\ArrayBidimensional1.AssemblyInfoInputs.cache
+C:\Users\kevel\Documents\POO\ArrayBidimensional1\obj\Debug\net6.0\ArrayBidimensional1.AssemblyInfo.cs
+C:\Users\kevel\Documents\POO\ArrayBidimensional1\obj\Debug\net6.0\ArrayBidimensional1.csproj.CoreCompileInputs.cache
+C:\Users\kevel\Documents\POO\ArrayBidimensional1\bin\Debug\net6.0\ArrayBidimensional1.exe
+C:\Users\kevel\Documents\POO\ArrayBidimensional1\bin\Debug\net6.0\ArrayBidimensional1.deps.json
+C:\Users\kevel\Documents\POO\ArrayBidimensional1\bin\Debug\net6.0\ArrayBidimensional1.runtimeconfig.json
+C:\Users\kevel\Documents\POO\ArrayBidimensional1\bin\Debug\net6.0\ArrayBidimensional1.dll
+C:\Users\kevel\Documents\POO\ArrayBidimensional1\bin\Debug\net6.0\ArrayBidimensional1.pdb
+C:\Users\kevel\Documents\POO\ArrayBidimensional1\obj\Debug\net6.0\ArrayBidimensional1.dll
+C:\Users\kevel\Documents\POO\ArrayBidimensional1\obj\Debug\net6.0\refint\ArrayBidimensional1.dll
+C:\Users\kevel\Documents\POO\ArrayBidimensional1\obj\Debug\net6.0\ArrayBidimensional1.pdb
+C:\Users\kevel\Documents\POO\ArrayBidimensional1\obj\Debug\net6.0\ArrayBidimensional1.genruntimeconfig.cache
+C:\Users\kevel\Documents\POO\ArrayBidimensional1\obj\Debug\net6.0\ref\ArrayBidimensional1.dll
