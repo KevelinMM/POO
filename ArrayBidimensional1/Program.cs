@@ -11,7 +11,8 @@ internal class Program
     {
         new Program();
         decimal[,] array2D = new decimal[4, 5];
-        int soma = 0;
+        array2D[2, 3] = 2;
+        //int soma = 0;
         //decimal[] media;
 
         for (int linha = 0; linha < array2D.GetLength(0); ++linha)
@@ -21,7 +22,7 @@ internal class Program
                 Console.Write("{0}, ", array2D[linha, coluna]);
             }
             Console.WriteLine();
-            soma++;
+            //soma++;
         }
     }
 }
