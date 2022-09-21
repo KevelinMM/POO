@@ -45,6 +45,7 @@ class Program
             multiplica[y] = numeros[y] * (soma / numeros.Length);
         }
         Console.WriteLine("");
+
         for (int z = 0; z < numeros.Length; z++)
         {
             Console.WriteLine("Valores segundo Array " + z + ": " + multiplica[z]);
