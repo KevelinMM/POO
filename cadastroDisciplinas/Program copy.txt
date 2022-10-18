@@ -1,0 +1,47 @@
+﻿// Utilizando os conceitos iniciais de POO e a exemplificação que vimos, crie um sistema para cadastrar as
+//disciplinas de um curso, devendo possuir seus respectivos alunos e notas. 
+
+//dotnet run --project cadastroDisciplinas
+
+namespace IntroducaoPOO;
+
+internal class Program
+{
+    class Disciplina
+    {
+        public string NomeDisciplina { get; set; }
+        public string NomeCurso { get; set; }
+
+
+        public Disciplina(string nomeDisciplina, string nomeCurso, string alunos)
+        {
+            NomeDisciplina = nomeDisciplina;
+            NomeCurso = nomeCurso;
+        }
+
+        public void AdiconarDisciplina(Disciplina disciplina)
+        {
+            this.AdiconarDisciplina.Add(disciplina);
+        }
+    }
+
+    private static void Main(string[] args)
+    {
+
+        Console.WriteLine("Cadastre uma disciplina:");
+
+        Disciplina c1 = new Disciplina();
+        c1.NomeDisciplina = "Nome Disciplina";
+        c1.NomeCurso = "Nome Curso";
+        disciplina01.AdiconarDisciplina(c1);
+
+        foreach (var disciplina in disciplina01.AdiconarDisciplina)
+        {
+            Console.WriteLine($" \r\n Nome da disciplina: {disciplina.NomeDisciplina}, \r\n Nome do curso: {disciplina.NomeCurso}!");
+        }
+
+
+    }
+}
+
+//Kevelin Mondadori Mattos
