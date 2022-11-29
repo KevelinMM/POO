@@ -26,8 +26,6 @@ public class Tarefa : Compromisso
             Console.WriteLine(item);
         } 
     }
-
-
 }
 
 public class ItensTarefa
