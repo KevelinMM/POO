@@ -17,14 +17,16 @@ public class Tarefa : Compromisso
 
     public override string ToString()
     {
-       return $"Prioridade: {Prioridade}";
+        return $"Prioridade: {Prioridade} \nTitulo: {Titulo}" + CalculaPercentualConcluido();
     }
-    
-    public override void CalculaPercentualConcluido()
+
+    public override string CalculaPercentualConcluido()
     {
-        foreach(var item in Itens){
+        foreach (var item in Itens)
+        {
             Console.WriteLine(item);
-        } 
+        }
+        return "\n";
     }
 }
 
@@ -41,7 +43,8 @@ public class ItensTarefa
 
     public override string ToString()
     {
-       return $"Titulo: {Titulo} \nStatus: {Status}";
+        return $"Titulo: {Titulo} Status: {Status}";
     }
-    
+
+
 }

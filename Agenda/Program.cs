@@ -4,7 +4,7 @@ internal class Program
     private static void Main(string[] args)
     {
         Tarefa t1 = new Tarefa("T1","Tarefa 01", new DateTime(2022,11,22, 21,33,00), 'A', new ItensTarefa("Comprar leite",false) );
-        Evento e1 = new Evento("E1","Evento 01", new DateTime(2022,11,22, 21,33,00), 'N', "Casa", new Participante("Luciano","49123"),'A');
+        Evento e1 = new Evento("E1","Evento 01", new DateTime(2022,11,22, 21,33,00), 'N', "Casa", new Participante("Luciano","99999"),'A');
 
         Compromisso c1 = new Tarefa("T1","Tarefa 01", new DateTime(2022,11,22, 21,33,00), 'A', new ItensTarefa("Comprar leite",false) );
         Compromisso c2 = new Evento("E1","Evento 01", new DateTime(2022,11,22, 21,33,00), 'N', "Casa", new Participante("Luciano","49123"),'A');
@@ -19,7 +19,6 @@ internal class Program
         foreach (var item in Agenda)
         {
             Console.WriteLine(item);
-            Console.WriteLine(item.CalculaPercentualConcluido());
         }
     }
 }

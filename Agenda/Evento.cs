@@ -20,17 +20,19 @@ public class Evento : Compromisso
         Status = status;
     }
 
-
-    public override void CalculaPercentualConcluido()
-    {
-        foreach(var item in Participantes){
-            Console.WriteLine(item);
-        } 
-    }
-
     public override string ToString()
     {
-       return $"Tipo: {Tipo} \nLocal: {Local}";
+        return $"Tipo: {Tipo} \nLocal: {Local} " + CalculaPercentualConcluido();
+    }
+
+    public override string CalculaPercentualConcluido()
+    {
+        foreach (var item in Participantes)
+        {
+            Console.WriteLine(item);
+        }
+
+        return "\n";
     }
 }
 public class Participante
@@ -46,6 +48,6 @@ public class Participante
 
     public override string ToString()
     {
-       return $"Nome: {Nome} \nTelefone: {Telefone}";
+        return $"Nome: {Nome} \nTelefone: {Telefone}";
     }
 }

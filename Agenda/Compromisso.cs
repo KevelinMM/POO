@@ -13,5 +13,5 @@ public abstract class Compromisso
         DataHora = dataHora;
     }
 
-    public abstract void CalculaPercentualConcluido();
+    public abstract string CalculaPercentualConcluido();
 }
